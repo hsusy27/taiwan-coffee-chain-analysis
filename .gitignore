@@ -1,0 +1,30 @@
+# Python 環境
+.venv/
+__pycache__/
+
+# 大型原始資料（請依 README 自行下載）
+BGMOPEN1.zip
+town_boundary/
+
+# 抓取過程的快取
+osm_cache/
+osm_cache_v2/
+ptt_search_cache.json
+ptt_article_cache.jsonl
+coffee_osm_raw.json
+
+# 含 PTT 使用者帳號或留言原文，不公開
+ptt_articles.csv
+ptt_comments.csv
+comments_scored.csv
+labeling_sample.csv
+
+# 中間檔（含與咖啡無關的商號）
+coffee_brands_filtered.csv
+
+# 一次性檢查用的程式
+check_starbucks.py
+
+# Tableau 工作簿
+*.twb
+*.twbx
