@@ -2,7 +2,7 @@
 
 以免費公開資料，比較星巴克、路易莎、Cama、怡客、丹堤五個連鎖咖啡品牌的門市分布、展店趨勢與 PTT 網路口碑，並以 Tableau Public 呈現互動式儀表板。
 
-**互動儀表板**：（發布後貼上 Tableau Public 網址）
+**互動儀表板**：https://public.tableau.com/app/profile/shihyuan.hsu/viz/_17911135071140/1
 
 ## 分析問題
 
